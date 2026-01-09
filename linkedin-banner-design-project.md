@@ -7,7 +7,7 @@
 
 ## Project Overview
 
-This project was a creative collaboration to design a custom LinkedIn banner that elevates professional branding in the analytics and AI space. The goal was to create a clean, modern visual that communicates technical credibility while remaining recruiter-friendly and visually engaging.
+This project was a creative collaboration to design a custom LinkedIn banner that elevates professional branding in the analytics and technology space. The goal was to create a clean, modern visual that communicates technical credibility while remaining recruiter-friendly and visually engaging.
 
 ---
 
@@ -21,7 +21,7 @@ This project was a creative collaboration to design a custom LinkedIn banner tha
 
 - Visual concept & layout design  
 - Branding direction  
-- AI-assisted creative workflow  
+- Creative design workflow  
 - Final asset delivery & refinements  
 
 ---
@@ -35,11 +35,11 @@ The final banner is now actively used on a professional LinkedIn profile, helpin
 ## Tools & Skills
 
 - Visual branding & layout  
-- AI-assisted design tools  
-- Professional collaboration & communication  
+- Professional design tools  
+- Client collaboration & communication  
 - Design for recruiter-facing platforms  
 
 ---
 
 **Designed by:**  
-**Maria Larson — AI Visual Designer**
+**Maria Larson — Visual Designer**
