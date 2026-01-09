@@ -1,6 +1,6 @@
-# Creative Collaborations — AI Visual Design
+# Creative Collaborations — Visual Design
 
-This repository showcases creative collaborations and client projects focused on **AI-assisted visual design** and **professional branding**.
+This repository showcases creative collaborations and client projects focused on **visual design** and **professional branding**.
 
 Each project highlights real-world work created in partnership with professionals to support personal branding, digital presence, and visual storytelling.
 
@@ -10,18 +10,18 @@ Each project highlights real-world work created in partnership with professional
 
 - Custom LinkedIn banner designs  
 - Personal branding visuals  
-- AI-assisted creative workflows  
+- Creative design workflows  
 - Professional collaboration projects  
 
 ---
 
 ## 🤝 Collaboration Philosophy
 
-These projects are built through thoughtful collaboration — combining:
+These projects are built through thoughtful collaboration — combining:  
 - Client goals  
 - Visual strategy  
 - Clean, modern design  
-- And AI-powered creative tools  
+- Professional creative tools  
 
 Every project is approached with professionalism, care, and respect for privacy.
 
@@ -29,7 +29,7 @@ Every project is approached with professionalism, care, and respect for privacy.
 
 ## 📂 Project Structure
 
-Each folder in this repository represents a separate collaboration and includes:
+Each folder in this repository represents a separate collaboration and includes:  
 - Final design assets  
 - A short project description  
 - Context about goals and creative direction  
@@ -39,7 +39,7 @@ Each folder in this repository represents a separate collaboration and includes:
 ## 🧠 Tools & Skills Used
 
 - Visual branding & layout design  
-- AI-assisted creative generation  
+- Creative design development  
 - Design optimization for professional platforms (LinkedIn, portfolios, etc.)  
 - Client-focused collaboration and communication  
 
@@ -48,10 +48,11 @@ Each folder in this repository represents a separate collaboration and includes:
 ## 🌟 About the Designer
 
 **Maria Larson**  
-AI Visual Designer  
+Visual Designer  
 
-Focused on creating modern, approachable, and professional visuals at the intersection of **design, AI, and personal branding**.
+Focused on creating modern, approachable, and professional visuals at the intersection of **design and personal branding**.
 
 ---
 
 *More collaborations will be added as this portfolio grows.*
+
