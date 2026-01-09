@@ -11,6 +11,12 @@ This project was a creative collaboration to design a custom LinkedIn banner tha
 
 ---
 
+## Final Banner
+
+![LinkedIn Banner — Jacob Bennett](jacob-bennett-linkedin-banner.png)
+
+---
+
 ## My Role
 
 - Visual concept & layout design  
